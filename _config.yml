@@ -66,3 +66,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://square-velociraptor-0fc10.netlify.app'
